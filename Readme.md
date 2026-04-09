@@ -77,7 +77,7 @@ Project Explanation Video Link:
 🔗 Watch Demo Video on YouTube/Loom
 
 ## 📂 Folder Structure
-
+```text
 prodesk-capstone-TaskMatrix/
 ├── backend/        # API Server
 ├── frontend/       # React App
