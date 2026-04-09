@@ -81,6 +81,45 @@ The following **Entity Relationship Diagram (ERD)** represents the database stru
 ![Settings](./images/S7.png)
 
 ---
+Step 1: Clone Repository
+Bash
+
+git clone [https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git](https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git)
+Step 2: Navigate to Project Folder
+Bash
+
+cd prodesk-capstone-TaskMatrix
+Step 3: Install Dependencies
+Bash
+
+npm install
+Step 4: Run Backend
+Bash
+
+npm start
+Step 5: Run Frontend
+Bash
+
+cd frontend
+npm start
+🧪 API Testing
+All backend APIs were tested using Postman.
+
+POST /api/users/register - User Signup
+POST /api/users/login - User Login
+GET /api/projects - Fetch all projects
+POST /api/tasks - Create new task
+
+📚 References
+React: https://react.dev/
+Node.js: https://nodejs.org/
+Express: https://expressjs.com/
+MongoDB: https://www.mongodb.com/
+
+🎥 Demo Video
+Project Explanation Video Link:
+🔗 Watch Demo Video on YouTube/Loom
+
 
 ## 📂 Folder Structure
 ```text
@@ -94,33 +133,9 @@ prodesk-capstone-TaskMatrix/
 │   └── ...
 └── README.md
 
-# 1. Clone
-git clone [https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git](https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git)
-
-# 2. Install & Run Backend
-cd prodesk-capstone-TaskMatrix && npm install && npm start
-
-# 3. Run Frontend
-cd frontend && npm install && npm start
-
-
-🧪 API Testing
-All backend APIs were tested using Postman.
-
-POST /api/users/register - User Signup
-POST /api/users/login - User Login
-GET /api/projects - Fetch all projects
-POST /api/tasks - Create new task
-
-📚 References
-React | Node.js | Express | MongoDB
-
-🎥 Demo Video
-Project Explanation Video Link:
-🔗 Watch Demo Video on YouTube/Loom
-
 👨‍💻 Author
 Name: Shivansh Vishwakarma
 Course: Bachelor of Computer Applications (BCA)
 Project: Capstone Project – TaskMatrix
 Track: Full Stack Development
+
