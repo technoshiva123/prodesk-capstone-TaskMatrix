@@ -82,26 +82,24 @@ The following **Entity Relationship Diagram (ERD)** represents the database stru
 
 ---
 Step 1: Clone Repository
-Bash
 
 git clone [https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git](https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git)
+
 Step 2: Navigate to Project Folder
-Bash
 
 cd prodesk-capstone-TaskMatrix
+
 Step 3: Install Dependencies
-Bash
-
 npm install
-Step 4: Run Backend
-Bash
 
+Step 4: Run Backend
 npm start
+
 Step 5: Run Frontend
-Bash
 
 cd frontend
 npm start
+
 🧪 API Testing
 All backend APIs were tested using Postman.
 
