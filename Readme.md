@@ -51,17 +51,17 @@ cd prodesk-capstone-TaskMatrix && npm install && npm start
 cd frontend && npm install && npm start
 
 🧪 API Testing (Postman)
-POST /api/users/register - User Signup
-POST /api/users/login - User Login
-GET /api/projects - Fetch all projects
-POST /api/tasks - Create new task
+-**POST /api/users/register - User Signup
+-**POST /api/users/login - User Login
+-**GET /api/projects - Fetch all projects
+-**POST /api/tasks - Create new task
 ---
 
 📚 References
-React: https://react.dev/
-Node.js: https://nodejs.org/
-Express: https://expressjs.com/
-MongoDB: https://www.mongodb.com/
+-**React: https://react.dev/
+-**Node.js: https://nodejs.org/
+-**Express: https://expressjs.com/
+-**MongoDB: https://www.mongodb.com/
 
 ---
 
