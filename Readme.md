@@ -94,7 +94,49 @@ prodesk-capstone-TaskMatrix/
 │   └── ...
 └── README.md
 
+⚙️ Installation Steps
+Follow these steps to run the project locally.
+
+Step 1: Clone Repository
+
+git clone [https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git](https://github.com/technoshiva123/prodesk-capstone-TaskMatrix.git)
+
+Step 2: Navigate to Project Folder
+
+cd prodesk-capstone-TaskMatrix
+
+Step 3: Install Dependencies
+
+npm install
+
+Step 4: Run Backend
+
+npm start
+Step 5: Run Frontend
+
+cd frontend
+npm start
+
+🧪 API Testing
+All backend APIs were tested using Postman.
+
+POST /api/users/register - User Signup
+POST /api/users/login - User Login
+GET /api/projects - Fetch all projects
+POST /api/tasks - Create new task
+
+📚 References
+React: https://react.dev/
+Node.js: https://nodejs.org/
+Express: https://expressjs.com/
+MongoDB: https://www.mongodb.com/
+
+🎥 Demo Video
+Project Explanation Video Link:
+🔗 Watch Demo Video on YouTube/Loom
+
 👨‍💻 Author
 Name: Shivansh Vishwakarma
-Course: BCA (6th Semester)
+Course: Bachelor of Computer Applications (BCA)
 Project: Capstone Project – TaskMatrix
+Track: Full Stack Development
