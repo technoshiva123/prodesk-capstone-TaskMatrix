@@ -74,7 +74,7 @@ cd frontend && npm install && npm start
 
 🎥 Demo Video
 Project Explanation Video Link:
-🔗 Watch Demo Video on YouTube/Loom
+[🔗 Watch Demo Video on YouTube](https://youtu.be/qLS-LS8a7Gs?si=rf1A6RlL0lYra_S_)
 
 ## 📂 Folder Structure
 ```text
